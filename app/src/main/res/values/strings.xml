@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Layanan Pengaduan</string>
+    <string name="covid_statistic">Statistik COVID-19</string>
+    <string name="banten_statistic_data">Banten Data Statistik</string>
+    <string name="_0">0</string>
+    <string name="total_case">Total Case</string>
+    <string name="total_positive">Positif</string>
+    <string name="total_death">Meninggal</string>
+    <string name="total_recovered">Sembuh</string>
+    <string name="indonesia_covid_data">Data COVID-19 Indonesia</string>
+    <string name="show_sll_covid_19_case_by_province">Tampilkan semua kasus COVID-19</string>
+    <string name="picab">LPMI</string>
+    <string name="indonesia_total_case">Total Kasus COVID-19 Indonesia</string>
+    <string name="recovered">Sembuh</string>
+    <string name="nama_provinsi">Nama Provinsi</string>
+    <string name="covid_news">Berita COVID-19</string>
+    <string name="image">gambar</string>
+    <string name="title">Judul</string>
+    <string name="description">deskripsi</string>
+    <string name="date">date</string>
+    <string name="report_a_case">Adukan Kasus</string>
+    <string name="reported_case">Kasus yang di adukan</string>
+    <string name="report_id">ID</string>
+    <string name="reporter">Pengadu :</string>
+    <string name="reporter_name">Nama pengadu</string>
+    <string name="reported">Dicurigai terinfeksi :</string>
+    <string name="reported_name">Reported Name</string>
+    <string name="location">Lokasi :</string>
+    <string name="name">nama</string>
+    <string name="your_name">Nama anda</string>
+    <string name="suspected_name">Nama yang dicurigai</string>
+    <string name="submit_report">Submit aduan</string>
+</resources>
